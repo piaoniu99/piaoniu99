@@ -24,6 +24,7 @@
 {"key":"比特","name":"🎉跑牛看看（二）","type":3,"jar":"./ext/gd5ic01b6d4922692401eac6018178d033d06;md5;gd5ic01b6d4922692401eac6018178d033d06","api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"./fan/drpy2.min.js","ext":"./fan/有声小说吧.js","style":{"type":"rect","ratio":1},
+
 {"key":"酷看","name":"🔥4K一","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"文采","name":"🔥4K二","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Tvyb","name":"🔥4K三","type":3,"jar":"./nanfeng/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275","api":"csp_Tvyb","searchable":1,"quickSearch":1,"filterable":1},
