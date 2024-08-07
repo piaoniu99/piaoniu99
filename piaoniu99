@@ -23,6 +23,9 @@
     },
 {"key":"比特","name":"🎉跑牛看看（二）","type":3,"jar":"./ext/gd5ic01b6d4922692401eac6018178d033d06;md5;gd5ic01b6d4922692401eac6018178d033d06","api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 
+{"key":"有声小说js","name":"🎧有声┃小说","type":3,"jar":"./fan/fan1.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","api":"./fan/drpy2.min.js","ext":"./fan/有声小说吧.js","style":{"type":"rect","ratio":1},
+"searchable":0,"quickSearch":0,"changeable":0},
+
 {"key":"贱贱","name":"🧲P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./ext/drpy2.min.js","ext":"./ext/jp.js"},
 {"key":"新6V","name":"🧲磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
 {"key":"酷看","name":"🔥4K一","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
