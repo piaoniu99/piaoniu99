@@ -23,10 +23,11 @@
     },
 {"key":"比特","name":"🎉跑牛看看（二）","type":3,"jar":"./ext/gd5ic01b6d4922692401eac6018178d033d06;md5;gd5ic01b6d4922692401eac6018178d033d06","api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 
+{"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/有声小说吧.js","style":{"type":"rect","ratio":1},
 {"key":"贱贱","name":"🧲P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./ext/drpy2.min.js","ext":"./ext/jp.js"},
 {"key":"新6V","name":"🧲磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
 {"key":"酷看","name":"🔥4K一","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"文采","name":"🔥4K二","type":3,"jar":"./ext/gd5ic01b6d4922692401eac6018178d033d06;md5;gd5ic01b6d4922692401eac6018178d033d06","api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"文采","name":"🔥4K二","type":3,"jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {
       "key": "热播库",
       "name": "🔥4K五",
