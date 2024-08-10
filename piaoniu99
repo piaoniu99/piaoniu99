@@ -27,7 +27,7 @@
 {"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./nanfeng/Blixs.json"},
 {"key":"戏曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./nanfeng/Blixq.json"},
 
-{"key":"drpy_js_奈飞中文","name":"😈Netflix","type":3,"jar":"./gaotianliuyun/pg.jar;md5;93278b5f3154802b9112c7a05981ba86","api":"./gaotianliuyun/drpy2.min.js","ext":"./gaotianliuyun/奈飞中文.js"},
+{"key":"drpy_js_奈飞中文","name":"😈Netflix","type":3,"jar":"./gaotianliuyun/pg.jar;md5;93278b5f3154802b9112c7a05981ba86","api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/奈飞中文.js"},
 
 {"key":"贱贱","name":"🧲P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./ext/drpy2.min.js","ext":"./ext/jp.js"},
 {"key":"新6V","name":"🧲磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
