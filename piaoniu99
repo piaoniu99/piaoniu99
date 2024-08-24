@@ -22,7 +22,7 @@
 {"key":"戏曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./nanfeng/Blixq.json"},
 
 {"key":"短剧","name":"🍉跑牛短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"短剧","name":"🍉短剧(一)","type":3,"jar":"./ext1/gd5ic01b6d4922692401eac6018178d033d06;md5;gd5ic01b6d4922692401eac6018178d033d06","api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"短剧","name":"🍉短剧(一)","type":3,"jar":"./ext/gd5ic01b6d4922692401eac6018178d033d06;md5;gd5ic01b6d4922692401eac6018178d033d06","api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
 
 {"key":"drpy_js_奈飞中文","name":"💡综合五","type":3,"jar":"./gaotianliuyun/pg.jar;md5;93278b5f3154802b9112c7a05981ba86","api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/奈飞中文.js"},
 
