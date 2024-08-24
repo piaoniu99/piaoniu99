@@ -217,32 +217,32 @@
     },
 {"key":"Dm84","name":"🎉跑牛动漫(主)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"drpy_js_奇珍异兽","name":"奇艺[破解]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js"},
+{"key":"drpy_js_奇珍异兽","name":"🐞奇艺[破解]","type":3,"api":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/libs/drpy2.min.js","ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/dr_py/js/奇珍异兽.js"},
 
 {
             "key":"drpy_js_百忙无果",
-            "name":"芒果[破解]",
+            "name":"🐞芒果[破解]",
             "type":3,
             "api":"./pj/lib/drpy2.min.js",
             "ext":"./pj/is/百忙无果.js"
         },
         {
             "key":"drpy_js_腾云驾雾",
-            "name":"腾讯[破解]",
+            "name":"🐞腾讯[破解]",
             "type":3,
             "api":"./pj/lib/drpy2.min.js",
             "ext":"./pj/is/腾云驾雾.js"
         },
         {
             "key":"drpy_js_菜狗",
-            "name":"搜狗[破解]",
+            "name":"🐞搜狗[破解]",
             "type":3,
             "api":"./pj/lib/drpy2.min.js",
             "ext":"./pj/is/菜狗.js"
         },
         {
             "key":"drpy_js_优酷",
-            "name":"优酷[破解]",
+            "name":"🐞优酷[破解]",
             "type":3,
             "api":"./pj/lib/drpy2.min.js",
             "ext":"./pj/is/优酷.js"
