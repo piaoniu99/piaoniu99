@@ -3,6 +3,8 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
 
+{"key":"csp_XYQHiker_可可影视","name":"😈跑牛Netflix","type":3,"jar":"./xiangyaqing/custom_spider1.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xiangyaqing/可可影视.json"},
+
 {
       "key": "csp_xpath_海兔",
       "name": "🎉跑牛看看（主）",
@@ -22,7 +24,7 @@
 {"key":"短剧","name":"🎉跑牛短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"短剧","name":"🍉短剧(一)","type":3,"jar":"./ext/gd5ic01b6d4922692401eac6018178d033d06;md5;gd5ic01b6d4922692401eac6018178d033d06","api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"drpy_js_奈飞中文","name":"😈Netflix","type":3,"jar":"./gaotianliuyun/pg.jar;md5;93278b5f3154802b9112c7a05981ba86","api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/奈飞中文.js"},
+{"key":"drpy_js_奈飞中文","name":"💡综合五","type":3,"jar":"./gaotianliuyun/pg.jar;md5;93278b5f3154802b9112c7a05981ba86","api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/奈飞中文.js"},
 
 {"key":"贱贱","name":"🧲P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./ext/drpy2.min.js","ext":"./ext/jp.js"},
 {"key":"新6V","name":"🧲磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
@@ -253,9 +255,6 @@
 
 {"key":"Biliych","name":"🅱明星┃演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":1,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"},
-
-{"key":"csp_Ikanbot","name":"👾全能D版(一)","type":3,"jar":"./xiangyaqing/custom_spider1.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
-{"key":"csp_XYQHiker_可可影视","name":"👾全能D版(二)","type":3,"jar":"./xiangyaqing/custom_spider1.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xiangyaqing/可可影视.json"},
 
 {"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0},
