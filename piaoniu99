@@ -254,7 +254,7 @@
 {"key":"Biliych","name":"🅱明星┃演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":1,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"},
 
-{"key":"csp_Ikanbot","name":"👾全能D版(一)","type":3,"jar":"https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
+{"key":"csp_Ikanbot","name":"👾全能D版(一)","type":3,"jar":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://v.aikanbot.com"},
 {"key":"csp_XYQHiker_可可影视","name":"👾全能D版(二)","type":3,"jar":"./xiangyaqing/custom_spider.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xiangyaqing/可可影视.json"},
 
 {"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},
