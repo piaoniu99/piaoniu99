@@ -16,8 +16,8 @@
 
 {"key":"大米星球","name":"🎉跑牛看看（二）","type":3,"jar":"./yueguangbaohe/o.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
 
-{"key":"hipy_js_酷我听书[听]","name":"🎧听书一","type":3,"api":"https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/酷我听书[听].js"},
-{"key":"hipy_js_六月听书[听]","name":"🎧听书二","type":3,"api":"https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/六月听书[听].js"},
+{"key":"hipy_js_酷我听书[听]","name":"🎧听书一","type":3,"api":"./daozhang/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./daozhang/酷我听书[听].js"},
+{"key":"hipy_js_六月听书[听]","name":"🎧听书二","type":3,"api":"./daozhang/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"./daozhang/六月听书[听].js"},
 
 {"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./nanfeng/Blixs.json"},
 {"key":"戏曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./nanfeng/Blixq.json"},
