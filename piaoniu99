@@ -131,8 +131,6 @@
 {"key":"drpy_js_奈飞中文","name":"💡综合三","type":3,"jar":"./gaotianliuyun/pg.jar;md5;93278b5f3154802b9112c7a05981ba86","api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/奈飞中文.js"},
 {"key":"机器人","name":"💡综合五","type":3,"jar":"./yueguangbaohe/o.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
 
-{"key":"csp_XYQHiker_可可影视","name":"😈Netflix","type":3,"jar":"./xiangyaqing/custom_spider1.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xiangyaqing/可可影视.json"},
-
 {
       "key": "freeok",
       "name": "🥣测试一",
@@ -197,7 +195,10 @@
         "海外动漫"
       ]
     },
+
 {"key":"Dm84","name":"🎉跑牛动漫(主)","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
+
+{"key":"csp_XYQHiker_可可影视","name":"😈Netflix","type":3,"jar":"./xiangyaqing/custom_spider1.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./xiangyaqing/可可影视.json"},
 
 {"key":"drpy_js_奇珍异兽","name":"🐞奇艺[破解]","type":3,"api":"./xiangyaqing/drpy2.min.js","ext":"./xiangyaqing/奇珍异兽.js"},
 
