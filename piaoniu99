@@ -26,6 +26,8 @@
 
 {"key":"大米星球","name":"🎉跑牛看看（二）","type":3,"jar":"./yueguangbaohe/o.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
 
+{"key":"比特","name":"🎉跑牛看看（三）","type":3,"jar":"./ext/gd5ic01b6d4922692401eac6018178d033d06;md5;gd5ic01b6d4922692401eac6018178d033d06","api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
+
 {"key":"hipy_js_酷我听书[听]","name":"🎧听书一","type":3,"api":"https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/酷我听书[听].js"},
 {"key":"hipy_js_六月听书[听]","name":"🎧听书二","type":3,"api":"https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/六月听书[听].js"},
 
@@ -77,8 +79,6 @@
         "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
       }
     },
-
-{"key":"比特","name":"🎉跑牛看看（三）","type":3,"jar":"./ext/gd5ic01b6d4922692401eac6018178d033d06;md5;gd5ic01b6d4922692401eac6018178d033d06","api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 
 {
       "key": "黑狐",
