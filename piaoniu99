@@ -4,6 +4,16 @@
   "sites": [
 
 {
+      "key": "豆豆",
+      "name": "跑牛看看🎉",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+
+{
       "key": "csp_xpath_海兔",
       "name": "🎉跑牛看看（主）",
       "type": 3,
@@ -223,7 +233,7 @@
 {"key":"Bili","name":"🅱️沙雕动漫","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":1,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"},
 
-{"key":"Biliych","name":"🅱明星┃演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+{"key":"Biliych","name":"🅱️明星┃演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":1,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"},
 
 {"key":"小灯塔科学","name":"🌏科学┃小灯塔","type":3,"jar":"./yueguangbaohe/o.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://tv.nxog.top/m/Bilibili/小灯塔科学.json"},
