@@ -36,7 +36,6 @@
 
 {"key":"lf_js_lf_live","name":"📺电视直播","type":3,"jar":"./gaotianliuyun/pg.jar;md5;93278b5f3154802b9112c7a05981ba86","api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/lf_live.txt"},
 {"key":"酷狗","name":"🎵酷狗","type":3,"jar":"./daozhang/pg9.jar;md5;7633f8ea346c082b7aa163be58aed023","api":"csp_Kugou","searchable":1,"changeable":0,"order_num":9999},
-{"key":"drpy_js_广播迷FM","name":"📻广播FM","type":3,"jar":"./gaotianliuyun/pg.jar;md5;93278b5f3154802b9112c7a05981ba86","api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","changeable":0,"ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/广播迷FM.js"},
 
 {"key":"drpy_js_看了么","name":"🦄韩圈(一)","type":3,"jar":"./gaotianliuyun/pg.jar;md5;93278b5f3154802b9112c7a05981ba86","api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/看了么.js"},
 {"key":"drpy_js_看韩剧","name":"🦄韩圈(二)","type":3,"jar":"./gaotianliuyun/pg.jar;md5;93278b5f3154802b9112c7a05981ba86","api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/看韩剧.js"},
@@ -44,7 +43,7 @@
 {"key":"短剧","name":"🍉短剧(一)","type":3,"jar":"./ext/gd5ic01b6d4922692401eac6018178d033d06;md5;gd5ic01b6d4922692401eac6018178d033d06","api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"星芽短剧","name":"🍉短剧(二)","type":3,"jar":"./yueguangbaohe/o.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0},
 
-{"key":"贱贱","name":"🧲P2P","type":3,"searchable":1,"quickSearch":1,"changeable":1,"playerType":"1","api":"./ext/drpy2.min.js","ext":"./ext/jp.js"},
+{"key":"drpy_js_荐片","name":"🧲P2P","type":3,"jar":"./gaotianliuyun/pg.jar;md5;93278b5f3154802b9112c7a05981ba86","api":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/lib/drpy2.min.js","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/js/荐片.js", "timeout":30},
 {"key":"新6V","name":"🧲磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
 
 {"key":"酷看","name":"🔥4K一","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
