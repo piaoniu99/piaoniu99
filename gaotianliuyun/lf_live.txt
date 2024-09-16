@@ -7,15 +7,15 @@
 以/开头，存储卡的根目录
 
 
-#综合一
+#电视一
 https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
-#综合二
+#电视二
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-#综合三
+#电视三
 https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
-#国际一
+#电视国际台
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-#电台国际
+#电台国际一
 https://raw.githubusercontent.com/gaotianliuyun/gao/master/radio.txt
 #电台国际二
 https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u
