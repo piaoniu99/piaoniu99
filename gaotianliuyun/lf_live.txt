@@ -8,7 +8,7 @@
 
 
 #综合一
-../list.txt
+https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
 #综合二
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 #综合三
@@ -16,7 +16,7 @@ https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main
 #国际一
 https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 #电台国际
-../radio.txt
+https://raw.githubusercontent.com/gaotianliuyun/gao/master/radio.txt
 #电台国际二
 https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u
 #16万•MV
