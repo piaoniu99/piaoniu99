@@ -47,6 +47,17 @@
 {"key":"新6V","name":"🧲磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://www.xb6v.com/"},
 
 {
+	    "key":"Alist",
+	    "name":"🎉8K",
+	    "type":3,
+	    "api":"http://192.168.3.66:5678/tvbox/libs/alist.min.js",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":0,
+	    "ext":"http://192.168.3.66:5678/tvbox/json/alist.json;200;video"
+	},
+
+{
       "key": "热播库",
       "name": "🔥4K一",
       "type": 3,
