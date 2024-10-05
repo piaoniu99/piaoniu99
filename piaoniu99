@@ -285,7 +285,7 @@
         {
             "name": "live",
             "type": 0,
-            "url": "http://192.168.3.66:35455/tv.m3u",
+            "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/Jason6111/iptv/main/m3u/aptv.m3u",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
