@@ -8,16 +8,16 @@
 
 
 #电视一
-https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
+https://ghfast.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/list.txt
 #电视二
-https://github.moeyy.xyz/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+https://ghfast.top/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 #电视三
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 #电视国际台
-https://github.moeyy.xyz/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://ghfast.top/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
 #电台国际一
-https://raw.githubusercontent.com/gaotianliuyun/gao/master/radio.txt
+https://ghfast.top/https://raw.githubusercontent.com/gaotianliuyun/gao/master/radio.txt
 #电台国际二
-https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u
+https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u
 #16万•MV
-https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
+https://ghfast.top/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt
