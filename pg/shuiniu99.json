@@ -31,7 +31,14 @@
 		{"key":"相声小品","name":"🅱️相声小品","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/fan/fan1.txt;md5;f6c7214d9b4bef41c97d248790060a9a","api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/nanfeng/Blixs.json"},
 		{"key":"戏曲","name":"🅱️戏曲","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/fan/fan1.txt;md5;f6c7214d9b4bef41c97d248790060a9a","api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/nanfeng/Blixq.json"},
 		
-		{"key":"lf_js_lf_live","name":"📺电视📻电台","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/gaotianliuyun/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/gaotianliuyun/lf_live.txt"},
+		{
+			"key": "直播转点播",
+			"name": "🐼️┃电视┃直播",
+			"type": 3,
+			"searchable": 0,
+			"api": "./lib/live2vod.js",
+			"ext": "./lib/feimaolive.json"
+		},
 		
 		{
 			"key": "网盘配置",
