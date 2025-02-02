@@ -11,6 +11,18 @@
 			"indexs":1,
 			"ext": "./lib/tokenm.json$$$./lib/douban.json"
 		},
+		{
+	    "key":"Alist",
+	    "name":"🎉8K",
+	    "type":3,
+	    "api":"http://192.168.3.66:5678/tvbox/libs/alist.min.js",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":0,
+	    "ext":"http://192.168.3.66:5678/tvbox/json/alist_ext.json;200;video"
+	},
+		
+		{"key":"drpy_js_黑木耳资源","name":"🎉一-水牛看看","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/fan/fan1.txt;md5;f6c7214d9b4bef41c97d248790060a9a","api":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/mr.js"},
 		{"key":"大米星球","name":"🎉二-水牛看看","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/yueguangbaohe/o.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
 		
 		{"key":"hipy_js_酷我听书[听]","name":"🎧一-听书","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/fan/fan1.txt;md5;f6c7214d9b4bef41c97d248790060a9a","api":"https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/酷我听书[听].js"},
@@ -35,13 +47,58 @@
 			}
 		},
 		{"key":"Local","name":"本地","type":3,"api":"csp_Local"},
+		
+		{
+      "key": "黑狐",
+      "name": "👋一-高清",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/ext/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968",
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名": "黑狐影院",
+        "主页url": "http://fagmn.com",
+        "数组": "class=\"stui-vodlist__box\"&&</a",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4",
+        "过滤词": "/hls/#php",
+        "副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "搜索url": "http://fagmn.com/search.php;post;searchword={wd}",
+        "搜索模式": "1",
+        "搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>",
+        "搜索图片": "data-original=\"&&\"",
+        "搜索标题": "title=\"&&\"",
+        "搜索链接": "href=\"&&\"",
+        "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
+        "搜索后缀": "/view/",
+        "线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]",
+        "线路标题": ">&&<",
+        "播放数组": "class=\"stui-content__playlist clearfix&&</ul>",
+        "状态": "地区：&&</p>",
+        "导演": "导演：&&</p>",
+        "主演": "主演：&&</p>",
+        "简介": "简介：&&</div>",
+        "播放列表": "<a&&/a>",
+        "播放标题": ">&&<",
+        "播放链接": "href=\"&&\"",
+        "免嗅": "0",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
+        "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
+}
+},
 		{
 			"key": "天天",
-			"name": "天天┃App",
+			"name": "👋二-高清",
 			"type": 3,
 			"api": "csp_TTian",
 			"ext": "http://op.ysdqjs.cn$$$null$$$1"
 		},
+		
 		{"key":"drpy_js_88ball","name":"88看球[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/88ball.js", "quickSearch":0, "searchable":0, "changeable":0, "timeout":30},
 		{"key":"4KHDR","name":"🧲二-磁力","type":3,"api":"csp_FourKHDR","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"./lib/tokenm.json$$$./lib/4khdr.txt$$$1",
 			"style": {
@@ -57,6 +114,7 @@
 			"searchable": 1,
 			"changeable": 0
 		},
+		
 		{"key":"BLSGod","name":"🧲一-磁力","type":3,"api":"csp_BLSGod","changeable":1, "timeout":60},
 		{"key":"SeedHub","name":"🧲三-磁力","type":3,"api":"csp_SeedHub","changeable":1, "timeout":60},
 		
@@ -76,6 +134,9 @@
 			"searchable": 1,
 			"changeable": 0
 		},
+		
+		{"key":"机器人","name":"💡一-综合","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/yueguangbaohe/o.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
+		
 		{
 			"key": "短剧",
 			"name": "短剧",
@@ -96,12 +157,42 @@
 		},
 		{
 			"key": "酷狗",
-			"name": "酷狗",
+			"name": "🎵酷狗",
 			"type": 3,
 			"api": "csp_Kugou",
 			"searchable": 1,
 			"changeable": 0
 		},
+		
+		{
+            "key":"drpy_js_百忙无果",
+            "name":"🐞芒果[破解]",
+            "type":3,
+            "api":"./pj/lib/drpy2.min.js",
+            "ext":"./pj/is/百忙无果.js"
+        },
+		{
+            "key":"drpy_js_腾云驾雾",
+            "name":"🐞腾讯[破解]",
+            "type":3,
+            "api":"./pj/lib/drpy2.min.js",
+            "ext":"./pj/is/腾云驾雾.js"
+        },
+		{
+            "key":"drpy_js_菜狗",
+            "name":"🐞搜狗[破解]",
+            "type":3,
+            "api":"./pj/lib/drpy2.min.js",
+            "ext":"./pj/is/菜狗.js"
+        },
+		{
+            "key":"drpy_js_优酷",
+            "name":"🐞优酷[破解]",
+            "type":3,
+            "api":"./pj/lib/drpy2.min.js",
+            "ext":"./pj/is/优酷.js"
+        },
+		
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"./lib/tokenm.json"},
 		{
 			"key": "應用商店",
@@ -478,9 +569,26 @@
 				]
 			}
 		],
-		"parses": [
-		],
-		"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
+	
+	"parses":[
+        {
+            "name":"跑牛破解一",
+            "type":0,
+            "url":"https://jx.xmflv.cc/?url="
+        },
+        {
+            "name":"跑牛破解二",
+            "type":0,
+            "url":"https://www.yemu.xyz/?url="
+        },
+        {
+            "name":"跑牛破解三",
+            "type":0,
+            "url":"https://jx.m3u8.pw/?url="
+        }
+    ],
+	
+	"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu"],
 		"wallpaper": "http://饭太硬.top/深色壁纸/api.php",
 		"disabled_wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
