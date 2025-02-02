@@ -11,8 +11,7 @@
 			"indexs":1,
 			"ext": "./lib/tokenm.json$$$./lib/douban.json"
 		},
-		
-		{"key":"大米星球","name":"🎉一-跑牛看看","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/fan/yueguangbaohe/o.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
+		{"key":"大米星球","name":"🎉二-跑牛看看","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/yueguangbaohe/o.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
 		
 		{"key":"hipy_js_酷我听书[听]","name":"🎧一-听书","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/fan/fan1.txt;md5;f6c7214d9b4bef41c97d248790060a9a","api":"https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/酷我听书[听].js"},
 		{"key":"hipy_js_六月听书[听]","name":"🎧二-听书","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/fan/fan1.txt;md5;f6c7214d9b4bef41c97d248790060a9a","api":"https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/六月听书[听].js"},
