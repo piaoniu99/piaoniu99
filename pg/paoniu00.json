@@ -3,7 +3,7 @@
 	"sites":[
 		{
 			"key": "豆瓣",
-			"name": "豆瓣",
+			"name": "🎉水牛看看🎉",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0,
