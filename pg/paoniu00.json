@@ -12,15 +12,15 @@
 			"ext": "./lib/tokenm.json$$$./lib/douban.json"
 		},
 		
-		{"key":"大米星球","name":"🎉一-跑牛看看","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/yueguangbaohe/o.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
+		{"key":"大米星球","name":"🎉一-跑牛看看","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/fan/yueguangbaohe/o.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
 		
-		{"key":"hipy_js_酷我听书[听]","name":"🎧一-听书","type":3,"api":"https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/酷我听书[听].js"},
-		{"key":"hipy_js_六月听书[听]","name":"🎧二-听书","type":3,"api":"https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/六月听书[听].js"},
+		{"key":"hipy_js_酷我听书[听]","name":"🎧一-听书","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/fan/fan1.txt;md5;f6c7214d9b4bef41c97d248790060a9a","api":"https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/酷我听书[听].js"},
+		{"key":"hipy_js_六月听书[听]","name":"🎧二-听书","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/fan/fan1.txt;md5;f6c7214d9b4bef41c97d248790060a9a","api":"https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/六月听书[听].js"},
 		
-		{"key":"相声小品","name":"🅱️相声小品","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./nanfeng/Blixs.json"},
-		{"key":"戏曲","name":"🅱️戏曲","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"./nanfeng/Blixq.json"},
+		{"key":"相声小品","name":"🅱️相声小品","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/fan/fan1.txt;md5;f6c7214d9b4bef41c97d248790060a9a","api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/nanfeng/Blixs.json"},
+		{"key":"戏曲","name":"🅱️戏曲","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/fan/fan1.txt;md5;f6c7214d9b4bef41c97d248790060a9a","api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/nanfeng/Blixq.json"},
 		
-		{"key":"lf_js_lf_live","name":"📺电视📻电台","type":3,"jar":"./gaotianliuyun/pg.jar;md5;93278b5f3154802b9112c7a05981ba86","api":"./gaotianliuyun/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./gaotianliuyun/lf_live.txt"},
+		{"key":"lf_js_lf_live","name":"📺电视📻电台","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/gaotianliuyun/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/gaotianliuyun/lf_live.txt"},
 		
 		{
 			"key": "网盘配置",
