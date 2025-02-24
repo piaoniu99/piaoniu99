@@ -16,11 +16,11 @@
 	    "key":"Alist",
 	    "name":"🎉一-8K",
 	    "type":3,
-	    "api":"http://www.wp1server.cn:5678/tvbox/libs/alist.min.js",
+	    "api":"./pg/alist/wp1server/alist.min.js",
 	    "searchable":1,
 	    "quickSearch":1,
 	    "filterable":0,
-	    "ext":"http://www.wp1server.cn:5678/tvbox/json/alist_ext.json;200;video"
+	    "ext":"./pg/alist/wp1server/alist_ext.json;200;video"
 	},
 		{
 	    "key":"Alist",
