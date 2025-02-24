@@ -14,16 +14,6 @@
 		
 		{
 	    "key":"Alist",
-	    "name":"🎉一-8K",
-	    "type":3,
-	    "api":"./pg/alist/wp1server/alist.min.js",
-	    "searchable":1,
-	    "quickSearch":1,
-	    "filterable":0,
-	    "ext":"./pg/alist/wp1server/alist_ext.json;200;video"
-	},
-		{
-	    "key":"Alist",
 	    "name":"🎉二-8K",
 	    "type":3,
 	    "api":"http://chongyaa.top:5678/tvbox/libs/alist.min.js",
