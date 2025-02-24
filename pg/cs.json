@@ -41,6 +41,16 @@
 	    "filterable":0,
 	    "ext":"http://ip.luozia.cn:5678/tvbox/json/alist_ext.json;200;video"
 	},
+		{
+	    "key":"Alist",
+	    "name":"🎉三-8K",
+	    "type":3,
+	    "api":"http://alist.danielchen.cn:5678/tvbox/libs/alist.min.js",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":0,
+	    "ext":"http://alist.danielchen.cn:5678/tvbox/json/alist_ext.json;200;video"
+	},
 		
 		{"key":"drpy_js_黑木耳资源","name":"🎉一-水牛看看","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/fan/fan1.txt;md5;f6c7214d9b4bef41c97d248790060a9a","api":"https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js","ext":"https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/lib/mr.js"},
 		{"key":"大米星球","name":"🎉二-水牛看看","type":3,"jar":"https://ghfast.top/https://raw.githubusercontent.com/piaoniu99/piaoniu99/main/yueguangbaohe/o.jar;md5;705ba6e23c4384c37a11dd904727520b","api":"csp_AppDaMi","searchable":1,"quickSearch":0,"filterable":0},
