@@ -632,14 +632,7 @@ clear
 #!/bin/sh
 
 # 打印 ASCII 艺术
-echo "  _____       __     __          "
-echo " |  __ \\      \\ \\   / /          "
-echo " | |__) |_ _ __\\ \\_/ /   _ _ __  "
-echo " |  ___/ _\` / __\\   / | | | '_ \\ "
-echo " | |  | (_| \\__ \\| || |_| | | | |"
-echo " |_|   \\__,_|___/|_| \\__,_|_| |_|"
-echo "                                 "
-echo -e '\n'欢迎使用帕斯云（www.pasyun.com）一键梭哈脚本...'\n'
+echo -e '\n'欢迎使用牛牛一键梭哈脚本...'\n'
 # 其他脚本内容
 echo 梭哈模式不需要自己提供域名,使用CF ARGO QUICK TUNNEL创建快速链接
 echo 梭哈模式在重启或者脚本再次运行后失效,如果需要使用需要再次运行创建
@@ -648,8 +641,8 @@ echo 首次绑定ARGO服务后如果不想再次跳转网页绑定
 echo 将已经绑定的系统目录下的 /root/.cloudflared 文件夹以及内容
 echo 拷贝至新系统下同样的目录,会自动跳过登录验证
 
-echo -e 帕斯云轻量：www.pasyun.com
-echo -e 帕斯云Nat：cloud.pasyun.com
+echo -e 嘿嘿
+echo -e 唉嘿嘿
 
 echo -e 注意：梭哈模式重启服务器后失效！！！
 
