@@ -1,1 +1,3 @@
 curl https://raw.githubusercontent.com/piaoniu99/piaoniu99/refs/heads/main/suoha.sh -o suoha.sh && chmod +x suoha.sh && bash suoha.sh
+
+vmess://eyJhZGQiOiJjbG91ZGZsYXJlLjE4MjY4Mi54eXoiLCJhaWQiOiIwIiwiaG9zdCI6ImFwaS50cnljbG91ZGZsYXJlLmNvbS90dW5uZWwiOiIsImlkIjoiZDdjNjY4Y2ItYTcxYS00ZThmLWE4ZmQtZDg2YjM1NGIzMjA2IiwibmV0Ijoid3MiLCJwYXRoIjoiZDdjNjY4Y2IiLCJwb3J0IjoiODAiLCJwcyI6Ii0tIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9Cg==
